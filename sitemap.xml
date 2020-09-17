@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://SeanKski.github.io/post/my-post/</loc>
+    <lastmod>2020-09-16T23:18:36-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://SeanKski.github.io/post/</loc>
+    <lastmod>2020-09-16T23:18:36-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://SeanKski.github.io/</loc>
+    <lastmod>2020-09-16T23:18:36-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://SeanKski.github.io/authors/admin/</loc>
   </url>
   
@@ -15,10 +30,6 @@
   </url>
   
   <url>
-    <loc>https://SeanKski.github.io/post/</loc>
-  </url>
-  
-  <url>
     <loc>https://SeanKski.github.io/publication_types/</loc>
   </url>
   
@@ -28,10 +39,6 @@
   
   <url>
     <loc>https://SeanKski.github.io/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>https://SeanKski.github.io/</loc>
   </url>
   
   <url>
