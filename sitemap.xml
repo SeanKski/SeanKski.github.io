@@ -73,15 +73,15 @@
   </url>
   
   <url>
-    <loc>https://SeanKski.github.io/author/</loc>
-  </url>
-  
-  <url>
     <loc>https://SeanKski.github.io/categories/</loc>
   </url>
   
   <url>
     <loc>https://SeanKski.github.io/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://SeanKski.github.io/author/sean-kulinski/</loc>
   </url>
   
 </urlset>
