@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Sean Kulinski</title>
-    <link>https://SeanKski.github.io/publication/</link>
-      <atom:link href="https://SeanKski.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publications</description>
+    <title>Saurabh Bagchi | Sean Kulinski</title>
+    <link>https://SeanKski.github.io/authors/saurabh-bagchi/</link>
+      <atom:link href="https://SeanKski.github.io/authors/saurabh-bagchi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Saurabh Bagchi</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 06 Oct 2020 14:06:43 -0400</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>Publications</title>
-      <link>https://SeanKski.github.io/publication/</link>
+      <title>Saurabh Bagchi</title>
+      <link>https://SeanKski.github.io/authors/saurabh-bagchi/</link>
     </image>
     
     <item>
