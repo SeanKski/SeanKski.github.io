@@ -3,7 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://SeanKski.github.io/publication_types/1/</loc>
+    <loc>https://SeanKski.github.io/publication-type/0/</loc>
+    <lastmod>2020-10-06T17:35:11-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://SeanKski.github.io/publication_types/</loc>
+    <lastmod>2020-10-06T17:35:11-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://SeanKski.github.io/publication/</loc>
+    <lastmod>2020-10-06T17:35:11-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://SeanKski.github.io/</loc>
+    <lastmod>2020-10-06T17:35:11-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://SeanKski.github.io/publication/test-pub/</loc>
+    <lastmod>2020-10-06T17:35:11-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://SeanKski.github.io/publication-type/1/</loc>
     <lastmod>2020-10-06T14:06:43-04:00</lastmod>
   </url>
   
@@ -13,12 +38,12 @@
   </url>
   
   <url>
-    <loc>https://SeanKski.github.io/authors/david-i.-inouye/</loc>
+    <loc>https://SeanKski.github.io/author/david-i.-inouye/</loc>
     <lastmod>2020-10-06T14:06:43-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://SeanKski.github.io/tags/domain-shift/</loc>
+    <loc>https://SeanKski.github.io/tag/domain-shift/</loc>
     <lastmod>2020-10-06T14:06:43-04:00</lastmod>
   </url>
   
@@ -28,32 +53,17 @@
   </url>
   
   <url>
-    <loc>https://SeanKski.github.io/tags/machine-learning/</loc>
+    <loc>https://SeanKski.github.io/tag/machine-learning/</loc>
     <lastmod>2020-10-06T14:06:43-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://SeanKski.github.io/publication_types/</loc>
+    <loc>https://SeanKski.github.io/author/saurabh-bagchi/</loc>
     <lastmod>2020-10-06T14:06:43-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://SeanKski.github.io/publication/</loc>
-    <lastmod>2020-10-06T14:06:43-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://SeanKski.github.io/authors/saurabh-bagchi/</loc>
-    <lastmod>2020-10-06T14:06:43-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://SeanKski.github.io/</loc>
-    <lastmod>2020-10-06T14:06:43-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://SeanKski.github.io/authors/sean-m.-kulinski/</loc>
+    <loc>https://SeanKski.github.io/author/sean-m.-kulinski/</loc>
     <lastmod>2020-10-06T14:06:43-04:00</lastmod>
   </url>
   
@@ -73,7 +83,7 @@
   </url>
   
   <url>
-    <loc>https://SeanKski.github.io/authors/admin/</loc>
+    <loc>https://SeanKski.github.io/author/</loc>
   </url>
   
   <url>

@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://SeanKski.github.io/sitemap.xml

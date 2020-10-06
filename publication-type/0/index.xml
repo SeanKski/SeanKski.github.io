@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0 | Sean Kulinski</title>
+    <link>https://SeanKski.github.io/publication-type/0/</link>
+      <atom:link href="https://SeanKski.github.io/publication-type/0/index.xml" rel="self" type="application/rss+xml" />
+    <description>0</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 06 Oct 2020 17:35:11 -0400</lastBuildDate>
+    <image>
+      <url>https://SeanKski.github.io/images/logo_hu0796d1b144cc5304fbea662fa97f917c_730331_300x300_fit_lanczos_2.png</url>
+      <title>0</title>
+      <link>https://SeanKski.github.io/publication-type/0/</link>
+    </image>
+    
+    <item>
+      <title>Test Pub</title>
+      <link>https://SeanKski.github.io/publication/test-pub/</link>
+      <pubDate>Tue, 06 Oct 2020 17:35:11 -0400</pubDate>
+      <guid>https://SeanKski.github.io/publication/test-pub/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
