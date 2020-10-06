@@ -5,12 +5,20 @@
     <link>https://SeanKski.github.io/publication-type/1/</link>
       <atom:link href="https://SeanKski.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 06 Oct 2020 14:06:43 -0400</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 06 Oct 2020 17:35:11 -0400</lastBuildDate>
     <image>
       <url>https://SeanKski.github.io/images/logo_hu0796d1b144cc5304fbea662fa97f917c_730331_300x300_fit_lanczos_2.png</url>
       <title>1</title>
       <link>https://SeanKski.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>Testing this out</title>
+      <link>https://SeanKski.github.io/publication/test-pub/</link>
+      <pubDate>Tue, 06 Oct 2020 17:35:11 -0400</pubDate>
+      <guid>https://SeanKski.github.io/publication/test-pub/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Feature Shift Detection: Localizing Which Features Have Shifted via Conditional Distribution Tests</title>

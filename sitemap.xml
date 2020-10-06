@@ -3,7 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://SeanKski.github.io/publication-type/0/</loc>
+    <loc>https://SeanKski.github.io/publication-type/1/</loc>
+    <lastmod>2020-10-06T17:35:11-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://SeanKski.github.io/authors/</loc>
+    <lastmod>2020-10-06T17:35:11-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://SeanKski.github.io/tag/ml/</loc>
     <lastmod>2020-10-06T17:35:11-04:00</lastmod>
   </url>
   
@@ -18,23 +28,23 @@
   </url>
   
   <url>
+    <loc>https://SeanKski.github.io/author/sean-kulinski/</loc>
+    <lastmod>2020-10-06T17:35:11-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://SeanKski.github.io/</loc>
+    <lastmod>2020-10-06T17:35:11-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://SeanKski.github.io/tags/</loc>
     <lastmod>2020-10-06T17:35:11-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://SeanKski.github.io/publication/test-pub/</loc>
     <lastmod>2020-10-06T17:35:11-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://SeanKski.github.io/publication-type/1/</loc>
-    <lastmod>2020-10-06T14:06:43-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://SeanKski.github.io/authors/</loc>
-    <lastmod>2020-10-06T14:06:43-04:00</lastmod>
   </url>
   
   <url>
@@ -64,11 +74,6 @@
   
   <url>
     <loc>https://SeanKski.github.io/author/sean-m.-kulinski/</loc>
-    <lastmod>2020-10-06T14:06:43-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://SeanKski.github.io/tags/</loc>
     <lastmod>2020-10-06T14:06:43-04:00</lastmod>
   </url>
   
